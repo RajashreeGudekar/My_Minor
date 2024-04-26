@@ -1,0 +1,20 @@
+.logo {
+    width: 350px; /* Adjust the maximum width of the logo */
+    /* height: auto;  */
+    height: 950px; /* Adjust spacing between the logo and other elements */
+  }
+ .navbar {
+    height: 60px; /* Increase the height of the navbar */
+    
+  } 
+  .logo {
+    max-height: 80px; /* Decrease the maximum height of the logo */
+    margin-right: 15px; /* Adjust spacing between the logo and other elements */
+  }
+  
+  .navbar-brand {
+    height: 100%; /* Ensure the logo takes up the full height of the navbar */
+    display: flex;
+    align-items: center;
+  } 
+  
